@@ -44,7 +44,8 @@
 <summary>how'd i add the savemepls-colorsch.json as my terminal theme?</summary>
 
 <details>
-you go to the settings in your windows terminal,thats what i used and made the theme for. if you're using any other terminal you're on you're [own](https://cdn-useast1.kapwing.com/static/templates/buddy-christ-meme-template-full-e34c6303.webp).
+
+you go to the settings in your windows terminal,thats what i used and made the theme for. if you're using any other terminal you're on you're [own](https://i0.wp.com/www.printmag.com/wp-content/uploads/2011/07/2a34d8_a7fec805baeb499e8085ba26395a1216mv2.jpg?resize=586%2C330&quality=89&ssl=1).
 
 <br>
 
@@ -53,7 +54,7 @@ you go to the settings in your windows terminal,thats what i used and made the t
 -now get to the lower right corner of the screen to find "Open JSON file". here's again an image that no one asked for
 ![img](https://github.com/blue-clouds4/windows-dot/blob/main/images/nowwehavejoinedthechurchandthestate/open-Json-file.png?raw=true)
 -add the [color scheme](https://github.com/blue-clouds4/windows-dot/main/images/nowwehavejoinedthechurchandthestate/savemepls-colorsch.json) under schemes[] as shown in the picture below
-![img](https://github.com/blue-clouds4/windows-dot/main/images/nowwehavejoinedthechurchandthestate/settings.json.png)
+![img](https://github.com/blue-clouds4/windows-dot/blob/main/images/nowwehavejoinedthechurchandthestate/settings.json.png)
 
 </details>
 
