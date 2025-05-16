@@ -32,9 +32,9 @@
 
 ### cool how'd i install some of these?
 
-- you can get WSL from the microsoft store by searching up the distro of choice you'd like to use, for me i install debain
-- install Rainmeter from its [homepage](https://www.rainmeter.net/). i used the default already present ones with mainly disk2.ini,etc. the sticky note-ish thing present is called [papernotes](https://visualskins.com/skin/paper-notes)
-- the installation guide for neofetch is better to be followed from [here](https://github.com/dylanaraps/neofetch/wiki/Installation)
+- you can get WSL from the microsoft store by searching up the distro of choice you'd like to use, in my case I installed debain
+- install Rainmeter from its [homepage](https://www.rainmeter.net/). i used the default ones (disk2.ini,etc). the sticky note-ish thing present is called [papernotes](https://visualskins.com/skin/paper-notes)
+- the best way to install is here[here](https://github.com/dylanaraps/neofetch/wiki/Installation)
 - you can install winfetch via 'scoop install winfetch'. To install scoop you can visit [scoop.sh](https://scoop.sh/). there are more than one ways to install winfetch with the easiest methods being scoop. please refer [winfetch at github](https://github.com/lptstr/winfetch)
 - for installation and setup of oh-my-posh refer this [link](https://www.youtube.com/watch?v=lxNLJsDKyU4&pp=0gcJCX4JAYcqIYzv)
 - you can install the fonts the classic way, everyone knows that if you dont, please [google it](https://www.google.co.in/) (and btw i have mainly use bigblue-terminal font for my terminals). howd i add them to my vs code you ask? again, [google it](https://www.google.co.in/)
