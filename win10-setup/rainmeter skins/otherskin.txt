@@ -1,0 +1,7 @@
+i have used:
+disk2.ini
+clock.ini
+Recycle Bin.ini
+System.ini 
+from illustro skin of rainmeter
+and paper2.ini of paper notes

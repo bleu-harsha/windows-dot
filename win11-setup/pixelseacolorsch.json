@@ -1,0 +1,23 @@
+{
+            "background": "#01010C",
+            "black": "#01010C",
+            "blue": "#265B9C",
+            "brightBlack": "#2E334D",
+            "brightBlue": "#7ABEFF",
+            "brightCyan": "#B0FFFF",
+            "brightGreen": "#2DA8B5",
+            "brightPurple": "#9AB6F1",
+            "brightRed": "#894C78",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#F6F6D6",
+            "cursorColor": "#99DFFF",
+            "cyan": "#6AD7E5",
+            "foreground": "#C2E9FF",
+            "green": "#1E879C",
+            "name": "PixelSeaNight",
+            "purple": "#5C71A9",
+            "red": "#552E4F",
+            "selectionBackground": "#234B87",
+            "white": "#C2E9FF",
+            "yellow": "#F6F0C5"
+        }
